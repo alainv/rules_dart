@@ -51,7 +51,7 @@ def _pub_repositories():
       name = "vendor_collection",
       output = ".",
       package = "collection",
-      version = "1.9.1",
+      version = "1.14.10",
       pub_deps = [],
   )
 
